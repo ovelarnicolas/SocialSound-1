@@ -1,6 +1,6 @@
 # SocialSound 
 
-
+![27308](https://user-images.githubusercontent.com/30738493/29140262-49b469c6-7d20-11e7-838b-4ef1799c424a.png)
 
 ## Descripción
 
